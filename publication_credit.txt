@@ -1,0 +1,14 @@
+Thank you for using SenticNet 6!
+
+Please acknowledge the authors by citing the following publication
+in any research work or presentation containing results obtained
+in whole or in part through the use of SenticNet 6:
+
+E Cambria, Y Li, FZ Xing, S Poria, K Kwok. SenticNet 6: Ensemble Application of Symbolic and Subsymbolic AI for Sentiment Analysis. In: Proceedings of CIKM, 105-114 (2020)
+
+For the multilingual version of SenticNet, please check BabelSenticNet.
+
+For the ontological version of SenticNet, please check OntoSenticNet.
+
+For the subsymbolic version of SenticNet (embeddings), please check AffectiveSpace.
+
